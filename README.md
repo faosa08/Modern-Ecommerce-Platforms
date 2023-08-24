@@ -1,6 +1,8 @@
 # Modern-Ecommerce-Platforms
 Design and Develop Modern Ecommerce Plaffor
+
 Project Overview
+
 My website is a website that sells coffee beans and has a workflow or business model. 
 
 My model will have three parts: 
