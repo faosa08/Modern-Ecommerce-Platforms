@@ -12,4 +12,4 @@ The first part starts with the customer coming to find the product on the websit
 
 The aforementioned format is the same as in this picture.
 
-![admin png](img/one.png)
+![admin png](img/ADMIN.png)
