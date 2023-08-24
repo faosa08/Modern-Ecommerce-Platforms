@@ -23,4 +23,6 @@ and in the third part will be a transport company
 
 The transport company is responsible for receiving products from admin and sending them to customers.
 
+This is the whole process of this model.
+![Digram img](imggg/ALL.png)
 These are all my early models.
