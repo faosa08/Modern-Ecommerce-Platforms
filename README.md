@@ -19,4 +19,8 @@ And in the second part is the admin part.
 Admin will have a duty to receive orders and pack, produce and send products to the shipping company.
 
 and in the third part will be a transport company
-![Digram img](imggg/DELI.png)
+![Digram img](imggg/DELIVER.png)
+
+The transport company is responsible for receiving products from admin and sending them to customers.
+
+These are all my early models.
