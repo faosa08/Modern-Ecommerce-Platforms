@@ -11,4 +11,5 @@ My model will have three parts:
 The first part starts with the customer coming to find the product on the website and the customer can click to order right away via the payment method on delivery. First of all, I have to inform that my website or shop does not have any teachings.
 
 The aforementioned format is the same as in this picture.
-![home one](img/home.png)
+
+![ALL png](img/ALL.png)
