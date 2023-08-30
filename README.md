@@ -12,6 +12,11 @@ My model will have three parts:
 
 The first part starts with the customer coming to find the product on the website and the customer can click to order right away via the payment method on delivery. First of all, I have to inform that my website or shop does not have any teachings.
 
+Plugin
+
+
+Theme
+
 The aforementioned format is the same as in this picture.
 ![Digram img](imggg/CUSTOMER.png)
 
