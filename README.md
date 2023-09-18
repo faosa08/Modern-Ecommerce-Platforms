@@ -38,11 +38,21 @@ The reason to use laragon is that it is a web server emulator. Laragon is fast a
 
 - Step 5 : Press to Wep.
 
-- Step 6 : Bring up the Install WordPress page by pressing localhost/folder name/press enter, you will be prompted to fill in information
+- Step 6 : Bring up the Install WordPress page by pressing localhost/folder name/press enter, you will be prompted to fill in information.
 
 - Step 7: Login into WordPress and you're done.
 
+After we have successfully logged in, it will bring up Wordpress for us. There won't be much there. Everything we want to do or want we have to download ourselves. Download it within Wordpress. The first thing we need to do is our website page. in making website pages We have two paths to choose from. First, design it yourself. Second, find other people's themes and change them into your website page. I chose to find someone else's theme to use, which I chose the theme of Coffee Block version 1.0 By SKT Themes.
+his website page. His theme will be selling coffee beans and giving knowledge about coffee. which is very similar to my concept. So I have chosen our theme to change to my website for selling coffee beans. We have chosen the theme and the next step is to decorate our website page. How do you want it to be? Whatever you want, we can do as we want. We've finished decorating everything. Next, we'll add a plugin. First, we have to explain what a plugin is. A plugin is an add-on to WordPress in the form of a script that will help increase efficiency. and expand the ability to make ordinary websites It has become a complete website. More suitable for use in each purpose. 
 
+## What plug-ins do you use?
+- Woocommerce
+What is Woocommerce and what are its advantages?
+It is a plugin that can turn a simple WordPress website into an e-commerce website in just a few clicks. With a variety of abilities Sell many types of products Whether it is an ordinary product that can be tangible Digital file type products.
+WooCommerce can do everything a basic e-commerce website should have, such as a membership system, payments, shipping, warehouse management, and sales reporting system. and many other subsystems.
+
+- PDF Invoices & Packing Slips for WooCommerce
+It will be a plugin to add a PDF invoice to send along with the order confirmation email that will be sent to the customer. Comes with templates and can also customize the appearance or create our own templates.
 
 The aforementioned format is the same as in this picture.
 ![Digram img](imggg/CUSTOMER.png)
