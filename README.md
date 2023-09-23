@@ -54,6 +54,11 @@ WooCommerce can do everything a basic e-commerce website should have, such as a 
 - PDF Invoices & Packing Slips for WooCommerce
 It will be a plugin to add a PDF invoice to send along with the order confirmation email that will be sent to the customer. Comes with templates and can also customize the appearance or create our own templates.
 
+## Website overview
+
+### HomePage
+![Digram img]()
+
 The aforementioned format is the same as in this picture.
 ![Digram img](imggg/CUSTOMER.png)
 
