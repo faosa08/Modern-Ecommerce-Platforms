@@ -57,7 +57,7 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 ## Website overview
 
 ### HomePage
-![Digram img]()
+![Digram img](imggg/13.png)
 
 The aforementioned format is the same as in this picture.
 ![Digram img](imggg/CUSTOMER.png)
