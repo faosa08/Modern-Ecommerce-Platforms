@@ -64,6 +64,13 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 ![Digram img](img/4.PNG)
 ![Digram img](img/5.PNG)
 
+#### Shoppage
+
+![Digram img](img/6.PNG)
+
+#### Cart
+
+![Digram img](img/7.PNG)
 
 
 The aforementioned format is the same as in this picture.
