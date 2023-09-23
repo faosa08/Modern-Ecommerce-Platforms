@@ -57,18 +57,18 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 ## Website overview
 
 ### HomePage
-![Digram img](img/SAN.png)
+
 
 The aforementioned format is the same as in this picture.
-![Digram img](imggg/CUSTOMER.png)
+
 
 And in the second part is the admin part.
-![Digram img](imggg/ADMIN.png)
+
 
 Admin will have a duty to receive orders and pack, produce and send products to the shipping company.
 
 and in the third part will be a transport company
-![Digram img](imggg/DELIVER.png)
+
 
 The transport company is responsible for receiving products from admin and sending them to customers.
 
