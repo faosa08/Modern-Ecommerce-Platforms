@@ -58,6 +58,11 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 
 ### HomePage
 
+![Digram img](img/1.PNG)
+![Digram img](img/2.PNG)
+![Digram img](img/3.PNG)
+![Digram img](img/4.PNG)
+![Digram img](img/5.PNG)
 
 The aforementioned format is the same as in this picture.
 
