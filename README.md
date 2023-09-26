@@ -94,4 +94,24 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Website pool
 
-![Digram img](img/website.PNG)
+![Digram img](img/Websitee.PNG)
+
+- Receive orders from customers in order to wipe customer slips.
+- Check slip and confirm order process: This process admin will check the slip of payment and confirm order. When checking the correctness of payment If correct, it will enter the stock checking process. If it is incorrect, the order will be canceled.
+- Stock checking process: Admin will check stock. If there is enough product, it will proceed to the next step. (Prepare orders for delivery)
+
+#### Admin pool
+
+![Digram img](img/Adminn.PNG)
+
+- The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
+- Customer order is ready to ship.
+- Next, the order will be sent to the shipping company.
+
+#### Delivery pool
+
+![Digram img](img/delivery.PNG)
+
+- The shipping company receives orders from admins in order to deliver goods to customers.
+- Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
+- Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
