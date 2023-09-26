@@ -72,20 +72,23 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 
 ![Digram img](img/7.PNG)
 
+# BPMN Diagram
 
-The aforementioned format is the same as in this picture.
+![Digram img](img/Alll.PNG)
+This BPMN diagram shows my ecommerce website process. It showcases key interactions and workflows that enhance the platform's user-friendly online coffee shop experience.
 
+### All Pools in BPMN
+- Customer
+- Website
+- Admin
+- Delivery
 
-And in the second part is the admin part.
+#### Customer pool
 
-
-Admin will have a duty to receive orders and pack, produce and send products to the shipping company.
-
-and in the third part will be a transport company
-
-
-The transport company is responsible for receiving products from admin and sending them to customers.
-
-This is the whole process of this model.
-
-These are all my early models.
+![Digram img](img/custumer.PNG)
+- Start with the green dot. It marks the beginning of the customer journey on the platform.
+- Select Products: The customer selects the desired products from the available options.
+- Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
+- Checkout Process: The process to Checkout the product.  (The customer fill their shipping detail.)
+- Payment process: There will be 2 methods to choose from, the first is payment on delivery, the second is via bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer The customer must send proof of payment to the administrator using the contact form to send a photo or the customer can send via Messenger, E-mai. Payment on delivery, the customer waits to pay when the delivery driver comes to deliver the item.
+- 
