@@ -91,4 +91,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
 - Checkout Process: The process to Checkout the product.  (The customer fill their shipping detail.)
 - Payment process: There will be 2 methods to choose from, the first is payment on delivery, the second is via bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer The customer must send proof of payment to the administrator using the contact form to send a photo or the customer can send via Messenger, E-mai. Payment on delivery, the customer waits to pay when the delivery driver comes to deliver the item.
-- 
+
+#### Website pool
+
+![Digram img](img/website.PNG)
