@@ -57,7 +57,7 @@ WooCommerce can do everything a basic e-commerce website should have, such as a 
 It will be a plugin to add a PDF invoice to send along with the order confirmation email that will be sent to the customer. Comes with templates and can also customize the appearance or create our own templates.
 
 - PeproDev WooCommerce Receipt Uploader
-
+Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually.
 
 ## Website overview
 
@@ -121,7 +121,10 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
 - Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
 
-
+#### Delivery Status
+![Digram img](img/3day.png)
+- Once the item leaves the originating courier company, it takes three days to reach its destination.
+Once the item leaves the originating courier company, it takes three days to reach its destination.
 
 #### Summary
 - YEAH  e-commerce website is a testament to the power of digital transformation in the world of bookselling. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
