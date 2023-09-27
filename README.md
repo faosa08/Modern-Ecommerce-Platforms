@@ -48,15 +48,15 @@ After we have successfully logged in, it will bring up Wordpress for us. There w
 his website page. His theme will be selling coffee beans and giving knowledge about coffee. which is very similar to my concept. So I have chosen our theme to change to my website for selling coffee beans. We have chosen the theme and the next step is to decorate our website page. How do you want it to be? Whatever you want, we can do as we want. We've finished decorating everything. Next, we'll add a plugin. First, we have to explain what a plugin is. A plugin is an add-on to WordPress in the form of a script that will help increase efficiency. and expand the ability to make ordinary websites It has become a complete website. More suitable for use in each purpose. 
 
 #### What plug-ins do you use?
-- Woocommerce
+- **Woocommerce**
 What is Woocommerce and what are its advantages?
 It is a plugin that can turn a simple WordPress website into an e-commerce website in just a few clicks. With a variety of abilities Sell many types of products Whether it is an ordinary product that can be tangible Digital file type products.
 WooCommerce can do everything a basic e-commerce website should have, such as a membership system, payments, shipping, warehouse management, and sales reporting system. and many other subsystems.
 
-- PDF Invoices & Packing Slips for WooCommerce
+- **PDF Invoices & Packing Slips for WooCommerce**
 It will be a plugin to add a PDF invoice to send along with the order confirmation email that will be sent to the customer. Comes with templates and can also customize the appearance or create our own templates.
 
-- PeproDev WooCommerce Receipt Uploader
+- **PeproDev WooCommerce Receipt Uploader**
 Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually.
 
 ## Website overview
