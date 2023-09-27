@@ -121,5 +121,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
 - Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
 
+
+
 #### Summary
 - YEAH  e-commerce website is a testament to the power of digital transformation in the world of bookselling. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
