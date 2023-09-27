@@ -79,7 +79,7 @@ It will be a plugin to add a PDF invoice to send along with the order confirmati
 
 # BPMN Diagram
 
-![Digram img](img/Alll.PNG)
+![Digram img](img/ALL.png)
 This BPMN diagram shows my ecommerce website process. It showcases key interactions and workflows that enhance the platform's user-friendly online coffee shop experience.
 
 ### All Pools in BPMN
@@ -90,16 +90,16 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Customer pool
 
-![Digram img](img/custumer.PNG)
+![Digram img](img/Customer.png)
 - Start with the green dot. It marks the beginning of the customer journey on the platform.
 - Select Products: The customer selects the desired products from the available options.
 - Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
 - Checkout Process: The process to Checkout the product.  (The customer fill their shipping detail.)
-- Payment process: There will be 2 methods to choose from, the first is payment on delivery, the second is via bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer The customer must send proof of payment to the administrator using the contact form to send a photo or the customer can send via Messenger, E-mai. Payment on delivery, the customer waits to pay when the delivery driver comes to deliver the item.
+- Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
 
 #### Website pool
 
-![Digram img](img/Websitee.PNG)
+![Digram img](img/Website.png)
 
 - Receive orders from customers in order to wipe customer slips.
 - Check slip and confirm order process: This process admin will check the slip of payment and confirm order. When checking the correctness of payment If correct, it will enter the stock checking process. If it is incorrect, the order will be canceled.
@@ -107,7 +107,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Admin pool
 
-![Digram img](img/Adminn.PNG)
+![Digram img](img/Admin.png)
 
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
 - Customer order is ready to ship.
@@ -115,7 +115,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Delivery pool
 
-![Digram img](img/delivery.PNG)
+![Digram img](img/Delivery.png)
 
 - The shipping company receives orders from admins in order to deliver goods to customers.
 - Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
