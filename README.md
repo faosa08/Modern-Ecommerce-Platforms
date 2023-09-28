@@ -93,7 +93,10 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/Customer.png)
 - Start with the green dot. It marks the beginning of the customer journey on the platform.
 - Select Products: The customer selects the desired products from the available options.
+![Digram img](img/6.PNG)
 - Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
+![Digram img](img/7.PNG)
+
 - Checkout Process: The process to Checkout the product.  (The customer fill their shipping detail.)
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
 
