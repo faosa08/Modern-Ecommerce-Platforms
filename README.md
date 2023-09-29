@@ -98,7 +98,12 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/7.PNG)
 
 - Checkout Process: The process to Checkout the product.  (The customer fill their shipping detail.)
+  - **Fill the shipping detail:** The customer fill their shipping detail.
+![Digram img](img/CheckOut.PNG)
+ - **Identify payment method:** customer choose the payment method. In my wetsite have 2 ways are 2C2P, and Bank transfer.
+![Digram img](img/Addorder.PNG)
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
+![Digram img](img/Tnk.PNG)
 
 #### Website pool
 
