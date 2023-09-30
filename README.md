@@ -79,7 +79,7 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 
 # BPMN Diagram
 
-![Digram img](img/ALL.png)
+![Digram img](img/All.PNG)
 This BPMN diagram shows my ecommerce website process. It showcases key interactions and workflows that enhance the platform's user-friendly online coffee shop experience.
 
 ### All Pools in BPMN
@@ -90,7 +90,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Customer pool
 
-![Digram img](img/Customer.png)
+
 - Start with the green dot. It marks the beginning of the customer journey on the platform.
 - Select Products: The customer selects the desired products from the available options.
 ![Digram img](img/6.PNG)
@@ -107,7 +107,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Website pool
 
-![Digram img](img/Website.png)
+
 
 - Receive orders from customers in order to wipe customer slips.
 - Check slip and confirm order process: This process admin will check the slip of payment and confirm order. When checking the correctness of payment If correct, it will enter the stock checking process. If it is incorrect, the order will be canceled.
@@ -115,7 +115,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Admin pool
 
-![Digram img](img/Admin.png)
+
 
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
 - Customer order is ready to ship.
@@ -123,16 +123,11 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 
 #### Delivery pool
 
-![Digram img](img/Delivery.png)
+
 
 - The shipping company receives orders from admins in order to deliver goods to customers.
 - Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
 - Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
-
-#### Delivery Status
-![Digram img](img/3day.png)
-- Once the item leaves the originating courier company, it takes three days to reach its destination.
-Once the item leaves the originating courier company, it takes three days to reach its destination.
 
 #### Summary
 - YEAH  e-commerce website is a testament to the power of digital transformation in the world of bookselling. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
