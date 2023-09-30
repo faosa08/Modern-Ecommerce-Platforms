@@ -89,7 +89,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Delivery
 
 #### Customer pool
-
+![Digram img](img/Customer.png)
 
 - Start with the green dot. It marks the beginning of the customer journey on the platform.
 - Select Products: The customer selects the desired products from the available options.
@@ -106,7 +106,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/Tnk.PNG)
 
 #### Website pool
-
+![Digram img](img/Website.png)
 
 
 - Receive orders from customers in order to wipe customer slips.
@@ -114,7 +114,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Stock checking process: Admin will check stock. If there is enough product, it will proceed to the next step. (Prepare orders for delivery)
 
 #### Admin pool
-
+![Digram img](img/Admin.png)
 
 
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
@@ -122,7 +122,7 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Next, the order will be sent to the shipping company.
 
 #### Delivery pool
-
+![Digram img](img/Delivery.png)
 
 
 - The shipping company receives orders from admins in order to deliver goods to customers.
