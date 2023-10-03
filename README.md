@@ -112,9 +112,10 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/Delivery.png)
 
 
-- The shipping company receives orders from admins in order to deliver goods to customers.
-- Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
-- Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
+- The shipping company receives an order from the system administrator to deliver the goods to the customer.
+- Next, I will send the parcel number to the admin so that the admin can send the parcel number to the customer.
+- Next is to enter information into the system.
+- Next, the product will be delivered to the customer within at least approximately 3 days (if we pay on delivery, we can wait to pay the shipping cost).
 
 #### Summary
 - YEAH  e-commerce website is a testament to the power of digital transformation in the world of YEAH COFF. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
