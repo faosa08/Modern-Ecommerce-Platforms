@@ -90,12 +90,18 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/Admin.png)
 
 - **Add product:** This task represents the process of adding a new product to your e-commerce store's catalog. It includes entering product details, assigning categories, and setting pricing.
-![Digram img](img/Addd.png)
+![Digram img](img/Add.png)
 
 - **Publish Product:** :This task involves making the approved product visible to customers on the website. It ensures that the product is included in relevant search results and categories.
 - **Update Product Information:** This task allows admins to modify existing product details, such as descriptions, prices, or images. It's used for maintaining accurate product information.
 - **Remove Product:** When a product is discontinued or permanently out of stock, this task is used to remove the product from the website. It ensures customers can no longer purchase the item.
-![Digram img](img/Add.png)
+![Digram img](img/product.png)
+
+- **Check order:** Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+![Digram img](img/product.png)
+
+- **Check slip and confirm order process:** This process admin will check the slip of payment and confirm order.
+![Digram img](img/product.png)
 
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
 - Customer order is ready to ship.
