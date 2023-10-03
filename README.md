@@ -89,6 +89,11 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 #### Admin pool
 ![Digram img](img/Admin.png)
 
+#### For website it is the center between customer and admin.
+- Start form the first that is product information is that can make customer choes it.
+- Second is taking customer order before the data go to backend.
+- Third is taking slip from customer who choes transfer before the data go to backend.
+
 - **Add product:** This task represents the process of adding a new product to your e-commerce store's catalog. It includes entering product details, assigning categories, and setting pricing.
 ![Digram img](img/Add.png)
 
@@ -98,13 +103,13 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 ![Digram img](img/product.png)
 
 - **Check order:** Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
-![Digram img](img/product.png)
+![Digram img](img/order.png)
 
 - **Check slip and confirm order process:** This process admin will check the slip of payment and confirm order.
-![Digram img](img/product.png)
+![Digram img](img/edit.png)
 
+- **Correct gataway:** when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
-- Customer order is ready to ship.
 - Next, the order will be sent to the shipping company.
 
 #### Delivery pool
