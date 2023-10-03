@@ -117,5 +117,5 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Next is to enter information into the system.
 - Next, the product will be delivered to the customer within at least approximately 3 days (if we pay on delivery, we can wait to pay the shipping cost).
 
-#### Summary
+#### Conclusion
 - YEAH  e-commerce website is a testament to the power of digital transformation in the world of YEAH COFF. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
